@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+
+this is new feature
+updated data
+=======
+>>>>>>> 215187f (new feature1 added)
 this is new feature
