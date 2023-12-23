@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 this is feature 2
 added by developer for a new feature
 
+=======
+this is feature 2
+added by developer for a new feature
+>>>>>>> d7f8062 (feature2.txt is updated)
