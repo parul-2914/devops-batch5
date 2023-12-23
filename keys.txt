@@ -1,0 +1,1 @@
+private key of ec2-machine
